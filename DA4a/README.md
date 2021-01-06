@@ -1,0 +1,1 @@
+The potentiometer is used instead becuase the one on the board was not functioning.
